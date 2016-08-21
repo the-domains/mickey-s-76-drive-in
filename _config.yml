@@ -1,0 +1,29 @@
+typography_spectrum: 0.7024098236579448
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5876318749506027
+  lightness: 0.18424002709798515
+  saturation: 0.9118564631789923
+  rhythmicContrast: 0.7057394846342504
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6337126228027046
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Mickey's 76 Drive In
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: with a taste of Chicago
+purpose: []
