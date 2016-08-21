@@ -1,4 +1,19 @@
+name: Mickey's 76 Drive In
+favicon: null
+layout_spectrum: 0.6337126228027046
 typography_spectrum: 0.7024098236579448
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -10,21 +25,4 @@ color:
   lightness: 0.18424002709798515
   saturation: 0.9118564631789923
   rhythmicContrast: 0.7057394846342504
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.6337126228027046
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Mickey's 76 Drive In
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Home of "The Hot Dog Man".
-description: with a taste of Chicago
 purpose: []
